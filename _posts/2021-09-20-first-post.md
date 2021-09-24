@@ -1,3 +1,8 @@
+---
+title: "First blog!"
+date: 2021-09-20
+---
+
 I want to do something different and meaningful before my college life ends.
 
 Thus I decide to write some thoughts or goals here.
