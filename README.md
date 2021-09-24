@@ -1,3 +1,4 @@
 # fuzzy-adventure
 my first repository
-用来学HTML
+
+First I want to make a simple blog.
