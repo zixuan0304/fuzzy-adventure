@@ -1,6 +1,6 @@
 ---
 title: reading material
-date: 2021=10-02
+date: 2021-10-02
 ---
 
 #### From Big Bang to a whimper
